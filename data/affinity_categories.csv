@@ -1,0 +1,17 @@
+id,type,level,cost_per_impression,cost_per_thousand
+1,real_food_affinity,0,0.01,9.00
+2,real_food_affinity,0.25,0.02,18.00
+3,real_food_affinity,0.5,0.03,27.00
+4,real_food_affinity,0.75,0.04,36.00
+5,luxury_brand_affinity,0,0.01,9.00
+6,luxury_brand_affinity,0.25,0.02,18.00
+7,luxury_brand_affinity,0.5,0.03,27.00
+8,luxury_brand_affinity,0.75,0.04,36.00
+9,tech_gadget_affinity,0,0.01,9.00
+10,tech_gadget_affinity,0.25,0.02,18.00
+11,tech_gadget_affinity,0.5,0.03,27.00
+12,tech_gadget_affinity,0.75,0.04,36.00
+13,travel_affinity,0,0.01,9.00
+14,travel_affinity,0.25,0.02,18.00
+15,travel_affinity,0.5,0.03,27.00
+16,travel_affinity,0.75,0.04,36.00
